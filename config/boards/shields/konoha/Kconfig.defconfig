@@ -1,0 +1,4 @@
+if KONOHA
+config ZMK_KEYBOARD_NAME
+    default "Kokoha Keyboard"
+endif

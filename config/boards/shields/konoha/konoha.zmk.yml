@@ -1,0 +1,8 @@
+file_format: "1"
+id: konoha
+name: Konoha
+type: shield
+url: https://codeberg.org/konohana/zmk-config-konoha
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
