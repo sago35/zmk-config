@@ -3,6 +3,6 @@ id: boardsource3x4
 name: Boardsource 3x4 Macropad
 type: shield
 url: https://boardsource.xyz/store/5ecc2008eee64242946c98c1
-requires: [pro_micro]
+requires: [seeed_xiao]
 features:
   - keys
